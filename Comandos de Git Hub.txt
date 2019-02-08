@@ -1,0 +1,6 @@
+Comandos de Git Hub:
+- git clone = se utiliza para clonar carpetas desde el repositorio
+- git status = se utiliza para ver el estado de cambios de la carpeta
+- git add .= se utiliza para agregar los cambios hechos en la carpeta
+- git commit -m "..." = se utiliza para agregarle nombre al comentario en el repositorio
+- git push origin master = se utiliza para subir los archivos cambiados al repositorio
